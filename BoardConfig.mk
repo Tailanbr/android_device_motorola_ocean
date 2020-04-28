@@ -15,7 +15,7 @@
 #
 
 # Inherit from motorola sdm632-common
--include device/motorola/sdm632-common/BoardConfigCommon.mk
+-include device/motorola/ocean/sdm632-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/motorola/ocean
 
